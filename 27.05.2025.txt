@@ -1,0 +1,24 @@
+1. How to set justify property in the paragraph elements?
+
+html
+Copy
+Edit
+<p style="text-align: justify;">
+  This paragraph text is justified using the text-align property.
+</p>
+2. How to add shadow to text?
+
+html
+Copy
+Edit
+<h2 style="text-shadow: 2px 2px 4px gray;">
+  This is a heading with shadow.
+</h2>
+3. How to specify all the font properties in one declaration?
+
+html
+Copy
+Edit
+<p style="font: italic small-caps bold 16px/1.5 Arial, sans-serif;">
+  This paragraph uses the font shorthand to apply multiple font properties.
+</p>
